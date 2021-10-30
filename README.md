@@ -1,5 +1,7 @@
 # vue-expense-tracker
 
+A simple expense tracker that can be used in simple operations.It was created with Vue3 and Bootstrap5
+
 ## Project setup
 ```
 npm install
